@@ -9,7 +9,7 @@ import (
 	"net"
 	"unsafe"
 
-	"github.com/quic-go/qtls-go1-19"
+	"github.com/imannamdari/qtls-go1-19"
 )
 
 type (
